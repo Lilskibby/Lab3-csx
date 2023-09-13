@@ -1,0 +1,1 @@
+This data was compiled from real band names (~70k) and a band name generator that combined random ADJs, Vs, and Ns from WordNet with obscene and disparaging domain usages filtered out. If you discover anything made it through the filter please contact your instructor so it can be removed from future releases.
